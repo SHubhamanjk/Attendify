@@ -48,6 +48,7 @@ p{
     color: rgb(255, 255, 255);
     font-size: 12px;
     font-weight: bolder;
+    display: none;
 }
 
 button {
@@ -82,5 +83,6 @@ button:hover {
     }
     p{
         font-size: 8px;
+        display: block;
     }
 }
