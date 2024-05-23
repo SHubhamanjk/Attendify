@@ -9,7 +9,8 @@ body {
     height: 100vh;
     background-image: url('/static/Capture.PNG');
     background-size: auto;
-    background-position: center;
+    background-position: cover;
+    background-repeat: no-repeat;
     z-index: -1;
 }
 
