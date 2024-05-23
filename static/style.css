@@ -50,9 +50,16 @@ p{
     color: rgb(255, 255, 255);
     font-size: 12px;
     font-weight: bolder;
-    display: none;
+/*     display: none; */
+    
 }
-
+#ph{
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: bolder;
+    display: none;
+}   
+    
 button {
     padding: 10px;
     margin-top: 20px;
@@ -84,6 +91,10 @@ button:hover {
         font-size: 17px;
     }
     p{
+        font-size: 8px;
+        display: block;
+    }
+    #ph{
         font-size: 8px;
         display: block;
     }
