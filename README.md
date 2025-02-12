@@ -1,20 +1,20 @@
 # Attendify
 
-## 📌 Overview
+##  Overview
 Attendify calculates your attendance percentage by taking your start date, end date, and number of absences. It automatically excludes weekends and holidays, simplifying the attendance tracking process.
 
-## 🚀 Features
-- 📊 **Automatic Attendance Calculation** – Computes attendance percentage efficiently.
-- 🔒 **Excludes Weekends & Holidays** – Ensures accurate attendance tracking.
-- ⚡ **User-Friendly Interface** – Simple and intuitive design.
-- 📁 **Cloud Integration** – Hosted on Streamlit for easy access.
+##  Features
+- **Automatic Attendance Calculation** – Computes attendance percentage efficiently.
+- **Excludes Weekends & Holidays** – Ensures accurate attendance tracking.
+- **User-Friendly Interface** – Simple and intuitive design.
+- **Cloud Integration** – Hosted on Streamlit for easy access.
 
-## 🏗️ Tech Stack
+##  Tech Stack
 - **Backend:** Python, Flask
 - **Frontend:** Jinja Templating
 - **Deployment:** Streamlit
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
@@ -36,11 +36,11 @@ Ensure you have the following installed:
 3. **Access the Application**
    Open the Streamlit-hosted application in your browser.
 
-## 🛠️ Usage
+##   Usage
 1. **Enter Dates & Absences** – Provide start date, end date, and number of absences.
 2. **Calculate Attendance** – Get an automated percentage calculation.
 
-## 📌 Future Enhancements
+##   Future Enhancements
 - Integration with biometric devices.
 - AI-powered emotion analysis.
 - Mobile application for on-the-go attendance tracking.
